@@ -1,0 +1,4 @@
+alice,$2b$12$bgawzNeATLKI7BACMPC7neoOm1VioD02ZAkyhkeScndNS1RaTd2IW
+dea,$2b$12$gbixfBF5uRs/HvQrRGAkO.CJsB8poy2TPiA.Q.NvRDnaXS1uQO3jS
+sam,$2b$12$VcuSLFY37jdfblpkY.9mW.2ucv5YRQVcZuvKkRPF16fgnm84sdo6m
+anna,$2b$12$hbh04Qtye9Q/SS/v5CEmKeGnNGalQBlwmhyhSTEVAM5EnIAWECrbK
